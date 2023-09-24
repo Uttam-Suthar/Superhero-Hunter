@@ -17,6 +17,7 @@
 
 
 <h2>Demo</h2>
+<p>Demo link: <a href="https://uttam-suthar.github.io/Superhero-Hunter/">Project link</a> </p>
 
 <h2>Deployment</h2>
 
@@ -34,6 +35,7 @@
 </ul>
 
 <h2>Screenshots</h2>
+
 <h2>Support</h2>
 <p>For support, email: <a href="sutharuttam33@gmail.com">sutharuttam33@gmail.com</a></p>
 
