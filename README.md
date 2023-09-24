@@ -21,7 +21,7 @@
 
 <h2>Deployment</h2>
 
-<p>To see this project live click below <Link:sp>https://github.com/Uttam-Suthar/Superhero-Hunter</Link:sp>
+<p>To see this project live click below <Link:sp>https://uttam-suthar.github.io/Superhero-Hunter/</Link:sp>
 </p>
 
 <h2>Features</h2>
