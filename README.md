@@ -18,10 +18,10 @@
 
 
 <h2>Demo</h2>
-https://github.com/Uttam-Suthar/Superhero-Hunter/assets/140789157/2bcaf332-94eb-4a6c-9899-70dc4ff4af0c
 
-<video src="https://github.com/Uttam-Suthar/Superhero-Hunter/assets/140789157/2bcaf332-94eb-4a6c-9899-70dc4ff4af0c" autoplay style="width: 50%" controls></video>
-<video src="./Demo ss video/demoVideo.mp4" style="width: 50%" autoplay controls></video>
+
+
+https://github.com/Uttam-Suthar/Superhero-Hunter/assets/140789157/bc57fa58-b6c0-419f-bde8-03326d5ee7ce
 
 
 <p>Demo link: <a href="https://uttam-suthar.github.io/Superhero-Hunter/">Project link</a> </p>
