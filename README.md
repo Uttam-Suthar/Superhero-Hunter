@@ -20,6 +20,7 @@
 <h2>Demo</h2>
 https://github.com/Uttam-Suthar/Superhero-Hunter/assets/140789157/2bcaf332-94eb-4a6c-9899-70dc4ff4af0c
 
+<video src="[./Demo ss video/demoVideo.mp4](https://github.com/Uttam-Suthar/Superhero-Hunter/assets/140789157/2bcaf332-94eb-4a6c-9899-70dc4ff4af0c)" style="width: 50%" controls></video>
 <video src="./Demo ss video/demoVideo.mp4" style="width: 50%" controls></video>
 
 
