@@ -18,6 +18,7 @@
 
 
 <h2>Demo</h2>
+
 <video src="./Demo ss video/demoVideo.mp4" style="width: 50%" controls></video>
 
 <p>Demo link: <a href="https://uttam-suthar.github.io/Superhero-Hunter/">Project link</a> </p>
