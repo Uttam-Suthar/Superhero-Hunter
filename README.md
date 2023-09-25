@@ -1,4 +1,5 @@
 # Superhero-Hunter
+# npm install crypto-js 
 <h1>Superhero Hunter</h1>
 
 <p>A Superhero Hunter made using Marvel API in which we can search for our superhero, know more about them and also we
@@ -22,7 +23,13 @@
 <p>Demo link: <a href="https://uttam-suthar.github.io/Superhero-Hunter/">Project link</a> </p>
 
 <h2>Deployment</h2>
-
+<p>
+    npm install crypto-js
+    
+</p>
+<p>
+    include crypto min js from cdn
+</p>
 <p>To see this project live click below <Link:sp>https://uttam-suthar.github.io/Superhero-Hunter/</Link:sp>
 </p>
 
