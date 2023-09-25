@@ -44,6 +44,7 @@
 </ul>
 
 <h2>Screenshots</h2>
+![home](https://github.com/Uttam-Suthar/Superhero-Hunter/assets/140789157/fd431007-555e-4e45-a021-03bfd891c496)
 <img src="./Demo ss video/home.PNG" style="width: 49%;">
 
 <img src="./Demo ss video/bg change.PNG" style="width: 49%;">
