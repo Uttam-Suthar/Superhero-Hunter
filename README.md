@@ -17,6 +17,8 @@
 
 
 <h2>Demo</h2>
+<video src="./Demo ss video/demoVideo.mp4" style="width: 50%" controls></video>
+
 <p>Demo link: <a href="https://uttam-suthar.github.io/Superhero-Hunter/">Project link</a> </p>
 
 <h2>Deployment</h2>
@@ -35,6 +37,19 @@
 </ul>
 
 <h2>Screenshots</h2>
+<img src="./Demo ss video/home.PNG" style="width: 49%;">
+
+<img src="./Demo ss video/bg change.PNG" style="width: 49%;">
+
+<img src="./Demo ss video/search hero.PNG" style="width: 49%;">
+
+<img src="./Demo ss video/add to fav.PNG" style="width: 49%;">
+
+<img src="./Demo ss video/fav page.PNG" style="width: 49%;">
+
+<img src="./Demo ss video/info page.PNG" style="width: 49%;">
+
+<img src="./Demo ss video/responsive.PNG" style="width: 49%;">
 
 <h2>Support</h2>
 <p>For support, email: <a href="sutharuttam33@gmail.com">sutharuttam33@gmail.com</a></p>
