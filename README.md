@@ -45,19 +45,19 @@
 
 <h2>Screenshots</h2>
 ![home](https://github.com/Uttam-Suthar/Superhero-Hunter/assets/140789157/fd431007-555e-4e45-a021-03bfd891c496)
-<img src="./Demo ss video/home.PNG" style="width: 49%;">
+<img src="./Demo ss video/home.PNG" style="width: 100%;">
 
-<img src="./Demo ss video/bg change.PNG" style="width: 49%;">
+<img src="./Demo ss video/bg change.PNG" style="width: 100%;">
 
-<img src="./Demo ss video/search hero.PNG" style="width: 49%;">
+<img src="./Demo ss video/search hero.PNG" style="width: 100%;">
 
-<img src="./Demo ss video/add to fav.PNG" style="width: 49%;">
+<img src="./Demo ss video/add to fav.PNG" style="width: 100%;">
 
-<img src="./Demo ss video/fav page.PNG" style="width: 49%;">
+<img src="./Demo ss video/fav page.PNG" style="width: 100%;">
 
-<img src="./Demo ss video/info page.PNG" style="width: 49%;">
+<img src="./Demo ss video/info page.PNG" style="width: 100%;">
 
-<img src="./Demo ss video/responsive.PNG" style="width: 49%;">
+<img src="./Demo ss video/responsive.PNG" style="width: 100%;">
 
 <h2>Support</h2>
 <p>For support, email: <a href="sutharuttam33@gmail.com">sutharuttam33@gmail.com</a></p>
