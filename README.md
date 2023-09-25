@@ -20,8 +20,11 @@
 <h2>Demo</h2>
 
 
+https://github.com/Uttam-Suthar/Superhero-Hunter/assets/140789157/3c1c1979-5194-4e71-8524-d937392d85f8
 
-https://github.com/Uttam-Suthar/Superhero-Hunter/assets/140789157/bc57fa58-b6c0-419f-bde8-03326d5ee7ce
+
+
+
 
 
 <p>Demo link: <a href="https://uttam-suthar.github.io/Superhero-Hunter/">Project link</a> </p>
@@ -49,13 +52,14 @@ https://github.com/Uttam-Suthar/Superhero-Hunter/assets/140789157/2bcaf332-94eb-
 
 <h2>Screenshots</h2>
 ![home](https://github.com/Uttam-Suthar/Superhero-Hunter/assets/140789157/fd431007-555e-4e45-a021-03bfd891c496)
+
+![search yr hero](https://github.com/Uttam-Suthar/Superhero-Hunter/assets/140789157/69ce3225-9c17-4a77-999a-d3597002a716)
+
 <img src="./Demo ss video/home.PNG" style="width: 100%;">
 
 <img src="./Demo ss video/bg change.PNG" style="width: 100%;">
 
-<img src="./Demo ss video/search hero.PNG" style="width: 100%;">
 
-<img src="./Demo ss video/add to fav.PNG" style="width: 100%;">
 
 <img src="./Demo ss video/fav page.PNG" style="width: 100%;">
 
