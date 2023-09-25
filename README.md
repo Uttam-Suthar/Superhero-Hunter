@@ -38,7 +38,7 @@ https://github.com/Uttam-Suthar/Superhero-Hunter/assets/140789157/2bcaf332-94eb-
 </p>
 
 <h2>Features</h2>
-
+https://github.com/Uttam-Suthar/Superhero-Hunter/assets/140789157/2bcaf332-94eb-4a6c-9899-70dc4ff4af0c
 <ul>
     <li>Light/dark mode toggle</li>
     <li>search for superheroes</li>
