@@ -56,16 +56,14 @@ https://github.com/Uttam-Suthar/Superhero-Hunter/assets/140789157/2bcaf332-94eb-
 ![home](https://github.com/Uttam-Suthar/Superhero-Hunter/assets/140789157/fd431007-555e-4e45-a021-03bfd891c496)
 
 ![search yr hero](https://github.com/Uttam-Suthar/Superhero-Hunter/assets/140789157/69ce3225-9c17-4a77-999a-d3597002a716)
+![home](https://github.com/Uttam-Suthar/Superhero-Hunter/assets/140789157/80086dd2-0ff9-4c17-9f3d-4cf49d71ec6c)
 
-<img src="./Demo ss video/home.PNG" style="width: 100%;">
+![bg change](https://github.com/Uttam-Suthar/Superhero-Hunter/assets/140789157/647acacc-8cbb-4c90-8413-4919c8b17f19)
+![info page](https://github.com/Uttam-Suthar/Superhero-Hunter/assets/140789157/6f8dfd22-a2e3-4414-92f2-173cf0817427)
+![fav page](https://github.com/Uttam-Suthar/Superhero-Hunter/assets/140789157/0a803dd4-42a3-4f66-8629-b66b99581992)
 
-<img src="./Demo ss video/bg change.PNG" style="width: 100%;">
 
 
-
-<img src="./Demo ss video/fav page.PNG" style="width: 100%;">
-
-<img src="./Demo ss video/info page.PNG" style="width: 100%;">
 
 
 ![responsive](https://github.com/Uttam-Suthar/Superhero-Hunter/assets/140789157/c4eb9274-c49b-4e8f-8882-08145655c11d)
