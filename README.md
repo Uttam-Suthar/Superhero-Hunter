@@ -65,7 +65,8 @@ https://github.com/Uttam-Suthar/Superhero-Hunter/assets/140789157/2bcaf332-94eb-
 
 <img src="./Demo ss video/info page.PNG" style="width: 100%;">
 
-![responsive](https://github.com/Uttam-Suthar/Superhero-Hunter/assets/140789157/10389a00-2bf1-44e9-a6d9-99699d09802a)
+
+![responsive](https://github.com/Uttam-Suthar/Superhero-Hunter/assets/140789157/c4eb9274-c49b-4e8f-8882-08145655c11d)
 
 
 <h2>Support</h2>
