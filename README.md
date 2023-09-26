@@ -22,9 +22,7 @@
 
 
 
-
-https://github.com/Uttam-Suthar/Superhero-Hunter/assets/140789157/a8b73ef3-3c44-41e7-972d-4bc1301bae41
-
+https://github.com/Uttam-Suthar/Superhero-Hunter/assets/140789157/175ee876-2b1d-48e9-8829-6e1a19749aaf
 
 
 
